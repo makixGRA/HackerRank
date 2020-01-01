@@ -1,4 +1,4 @@
-# DivisbleSumPairs
+# DivisibleSumPairs
 
 # https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=next-challenge&h_v=zen
 
