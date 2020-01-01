@@ -21,3 +21,5 @@ if __name__ == '__main__':
 
     result = divisibleSumPairs(n, k, ar)
     print(result)
+
+# It's possible to do it in O(n).
